@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PriceAction</string>
+    <string name="user">User</string>
+    <string name="sequence_generator">Sequence Generator</string>
+    <string name="api">API</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="dashboard">Dashboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_api">ADD API</string>
+    <string name="xxxxxxxx">XXXXXXXX</string>
+</resources>

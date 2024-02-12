@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/timeTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="November 25, 2023 09:33 AM IST"
+        android:textColor="@color/darkgrey"
+        android:textSize="8sp" />
+
+    <TextView
+        android:id="@+id/headingTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Market extends winning streak in 4th week amid FIIs support"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:maxLines="2"
+        android:ellipsize="end"/>
+
+    <TextView
+        android:id="@+id/subHeadingTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Indian rupee ended lower versus the US dollar, as it lost 10 paise to finish at 83.37 in the week ended November 20 against November 17 closing of 83.27."
+        android:textSize="10sp"
+        android:textColor="@color/darkgrey"/>
+
+
+</LinearLayout>
