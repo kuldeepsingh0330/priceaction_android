@@ -13,6 +13,8 @@ Welcome to the Android Frontend Module repository! This module serves as the use
 - **Integration with Backend:** Communicates with the Spring Boot backend to process user inputs, generate trading sequences, and execute orders through the Upstox API.
 - **Webhook Support:** Configures webhook URLs for integration with external platforms like Trading View, enabling dynamic trading strategies based on real-time market events.
 
+## Snapshots
+
 ## Usage 
 
 The Android frontend provides traders with a convenient platform to input their trading preferences, initiate trades, monitor market data, and execute orders seamlessly. It integrates seamlessly with the Spring Boot backend to ensure efficient communication and smooth trading operations.
