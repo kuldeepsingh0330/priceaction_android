@@ -5,6 +5,7 @@
 
 Welcome to the Android Frontend Module repository! This module serves as the user interface for the Price Action application, providing an intuitive and user-friendly platform for traders to interact with the system and execute stock orders.
 
+
 ## Features
 
 - **Intuitive User Interface:** Designed with user-centricity in mind, offering a seamless and engaging trading experience for users of all levels.
